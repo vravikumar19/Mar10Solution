@@ -1,0 +1,17 @@
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\bin\Release\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\bin\Release\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\bin\Release\netcoreapp2.0\Mono.Cecil.dll
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\bin\Release\netcoreapp2.0\UnitTestProject_117209.deps.json
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\bin\Release\netcoreapp2.0\UnitTestProject_117209.runtimeconfig.json
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\bin\Release\netcoreapp2.0\UnitTestProject_117209.runtimeconfig.dev.json
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\bin\Release\netcoreapp2.0\UnitTestProject_117209.dll
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\bin\Release\netcoreapp2.0\UnitTestProject_117209.pdb
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\obj\Release\netcoreapp2.0\UnitTestProject_117209.csprojResolveAssemblyReference.cache
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\obj\Release\netcoreapp2.0\UnitTestProject_117209.csproj.CoreCompileInputs.cache
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\obj\Release\netcoreapp2.0\UnitTestProject_117209.AssemblyInfoInputs.cache
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\obj\Release\netcoreapp2.0\UnitTestProject_117209.AssemblyInfo.cs
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\obj\Release\netcoreapp2.0\UnitTestProject_117209.dll
+D:\repos\DevOps_Reg117209\UnitTestProject_117209\obj\Release\netcoreapp2.0\UnitTestProject_117209.pdb
